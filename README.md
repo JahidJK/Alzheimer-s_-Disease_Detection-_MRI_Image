@@ -1,3 +1,5 @@
+                                                                    Project Name: Alzheimer's Disease Detection in MRI Image by Deep Learning: A Transfer Learning Approach 
+
 Data Acquisition: The MRI images Dataset was utilized in this investigation. The Kaggle website was the source of the publicly available dataset. Mild demented, moderate demented, non-demented, and very mild demented pictures are included in this collection. The database was ideal for DL since it contained excellent quality, cleansed data. We extracted 6400 photos from the dataset.
 
 ![image](https://github.com/user-attachments/assets/e99643a6-0102-4147-8d25-853dad5fb09d)
