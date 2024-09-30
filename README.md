@@ -3,8 +3,11 @@ Data Acquisition: The MRI images Dataset was utilized in this investigation. The
 ![image](https://github.com/user-attachments/assets/e99643a6-0102-4147-8d25-853dad5fb09d)
 
 Dataset Split: 5121 images for training, 640 images for validation, and 639 images for testing.
+
 Data Augmentation: To improve model robustness and enrich the dataset, use data augmentation techniques. Zooming, flipping, and rotation are a few possible techniques. For pre-trained models, all those images are resized to 224 × 224 pixels. We employed the data normalization technique to fit the models.
+
 Deep Learning Models: We utilize three widely used DL architectures for feature extraction and classification: VGG16, EfficientNetB3, and EfficientNetB5.
+
 Transfer Learning Phase: In Alzheimer's disease (AD) detection utilizing transfer learning, the process involves several key phases to effectively analyze brain images and classify potential instances of the disease. 
 
 A flowchart that provides an overview of this study process.
